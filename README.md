@@ -1,4 +1,5 @@
 <div align="center">
+<img width="200" height="265" alt="양준호 증명사진" src="https://github.com/user-attachments/assets/4e6e3d34-fa58-43f3-9f9e-67384132fd42" />
 
 ## 서비스의 동작을 이해하고, 문제의 원인을 찾아가는 Backend Developer, 양준호입니다.
 
@@ -22,7 +23,8 @@ Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
 
 기능을 구현하는 과정에서 **요청이 어떤 경로를 거쳐 처리되고, 데이터가 어디에 저장되는지** 이해하는 데 관심이 있습니다.
 
-실시간 강의 협업 플랫폼 **TikiTaka**의 백엔드 개발에 참여하며 필기 공유와 데이터 저장, 인증과 권한, 서버 배포를 경험했습니다. 배포 과정에서 발생한 통신 문제를 브라우저·프록시·애플리케이션 구간으로 나누어 살펴보고, 동시 필기 환경에서 드러난 저장 대기 문제를 팀과 함께 개선했습니다.
+실시간 강의 협업 플랫폼 **tikitaka**의 백엔드 개발에 참여하며 필기 공유와 데이터 저장, 인증과 권한, 서버 배포를 경험이 있습니다.
+배포 과정에서 발생한 통신 문제를 브라우저·프록시·애플리케이션 구간으로 나누어 살펴보고, 동시 필기 환경에서 드러난 저장 대기 문제를 팀과 함께 개선했습니다.
 
 개발하면서 다음을 중요하게 생각합니다.
 
@@ -71,9 +73,23 @@ Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
 | 후속 분석 | DB 연결 점유와 요청 처리 시간 프로파일링 |
 | 확장 설계 | ALB·다중 Spring Boot 서버·RabbitMQ 외부 브로커·AI 자원 분리 검토 |
 
-동시 동작 수치는 2026-11-01 테스트 조건이며, 서비스의 최대 수용 인원을 뜻하지 않습니다. 서버 이중화와 외부 브로커 구성은 향후 운영을 위한 설계입니다.
-
 </details>
+<table>
+  <tr>
+    <th width="50%">현재 시스템아키텍처</th>
+    <th width="50%">확장 시스템아키텍처</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="현재 시스템 아키텍처"
+        src="https://github.com/user-attachments/assets/55d8cc22-cb78-4a81-aa3c-1cf6c43b1fd1" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="확장 이후 시스템 아키텍처"
+        src="https://github.com/user-attachments/assets/820d528a-8b2a-46d6-bba9-9a1b4d370cba" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
