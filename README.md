@@ -139,7 +139,7 @@ Java 기본기에서 HTTP와 Spring Boot로 이어지는 학습 내용을 기록
 - 객체지향과 예외 처리, 회원가입 프로그램 실습
 - HTTP·쿠키·세션, MVC 및 기본 CRUD 학습
 
-[Backend Study](https://app.notion.com/p/3217a057c00180e38d2ffa25aa81e9dd?source=copy_link)
+[Backend Study](https://octagonal-chicory-02a.notion.site/3217a057c00180e38d2ffa25aa81e9dd?pvs=74)
 
 ---
 
