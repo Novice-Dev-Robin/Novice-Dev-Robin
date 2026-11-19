@@ -3,14 +3,16 @@
 
 ## 서비스의 동작을 이해하고, 문제의 원인을 찾아가는 Backend Developer, 양준호입니다.
 
-**단국대학교 컴퓨터공학과 · 3학년**<br/>
-Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
-실시간 통신과 데이터 저장, 배포 이후의 동작까지 경험을 넓혀가고 있습니다.
+#### 단국대학교 컴퓨터공학과 · 카카오임팩트 테크포임팩트리빙랩 1기 · 멋쟁이사자처럼 14기
+
+Spring Boot나 FastAPI 같은 프레임워크 기반의 백엔드를 개발하며, <br/>
+실시간 통신과 데이터 저장, 클라우드 환경까지 경험을 넓혀가고 있습니다.
 
 <br/>
 
-![Backend](https://img.shields.io/badge/Backend-Java%20%26%20Spring%20Boot-2766EC?style=for-the-badge)
-![University](https://img.shields.io/badge/Dankook%20University-Computer%20Engineering-003478?style=for-the-badge)
+![GPA 4.13 / 4.5](https://img.shields.io/badge/GPA-4.13%20%2F%204.5-2766EC?style=for-the-badge&labelColor=555555)
+![NCA 취득](https://img.shields.io/badge/NCA-%EC%B7%A8%EB%93%9D-087F36?style=for-the-badge&labelColor=555555)
+![Deployment Naver Cloud, AWS, Cloudflare Pages](https://img.shields.io/badge/Deployment-Naver%20Cloud%20%C2%B7%20AWS%20%C2%B7%20Cloudflare%20Pages-F38020?style=for-the-badge&labelColor=555555)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Novice--Dev--Robin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Novice-Dev-Robin)
 [![Email](https://img.shields.io/badge/Email-Dev.Robin03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dev.Robin03@gmail.com)
@@ -21,12 +23,13 @@ Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
 
 ## About Me
 
+처음 나만의 갤러리를 
 기능을 구현하는 과정에서 **요청이 어떤 경로를 거쳐 처리되고, 데이터가 어디에 저장되는지** 이해하는 데 관심이 있습니다.
 
 졸업 작품 **tikitaka**의 프론트엔드, 백엔드 개발에 참여하며 기획부터 디자인, DB 설계 및 API 설계, 서버 배포 경험이 있습니다.
 배포 과정에서 발생한 통신 문제를 브라우저·프록시·애플리케이션 구간으로 나누어 살펴보고, 동시 필기 환경에서 드러난 저장 대기 문제를 팀과 함께 개선했습니다.
 
-개발하면서 다음을 중요하게 생각합니다.
+저는 개발하면서 다음을 중요하게 생각합니다.
 
 - **흐름 이해** — API 하나를 넘어 클라이언트, 서버, 데이터베이스가 연결되는 과정을 확인합니다.
 - **원인 분석** — 주소·포트·프로토콜·처리 구간을 나누어 문제가 발생한 지점을 찾습니다.
@@ -68,10 +71,11 @@ Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
 | 확장 설계 | ALB·다중 Spring Boot 서버·RabbitMQ 외부 브로커·AI 자원 분리 검토 |
 
 </details>
+<br/>
 <table>
   <tr>
-    <th width="50%">현재 시스템아키텍처</th>
-    <th width="50%">확장 시스템아키텍처</th>
+    <th width="50%">현재 시스템 아키텍처</th>
+    <th width="50%">확장 이후 시스템 아키텍처</th>
   </tr>
   <tr>
     <td align="center">
@@ -79,7 +83,7 @@ Java · Spring Boot 기반의 백엔드를 개발하며,<br/>
         src="https://github.com/user-attachments/assets/55d8cc22-cb78-4a81-aa3c-1cf6c43b1fd1" />
     </td>
     <td align="center">
-      <img width="100%" alt="확장 이후 시스템 아키텍처"
+      <img width="100%" alt="확장 시스템 아키텍처"
         src="https://github.com/user-attachments/assets/820d528a-8b2a-46d6-bba9-9a1b4d370cba" />
     </td>
   </tr>
@@ -207,10 +211,7 @@ Java 기본기에서 HTTP와 Spring Boot로 이어지는 학습 내용을 기록
 
 - **대한민국 육군 병장 만기전역** · 2023.02.20 ~ 2024.08.19
 
----
+## Contact
 
-<div align="center">
-
-**구현한 기능이 실제로 어떻게 동작하는지 설명할 수 있는 개발자로 성장하고 있습니다.**
-
-</div>
+- **전화번호**: 010-8832-1401
+- **이메일**: [dev.robin03@gmail.com](mailto:dev.robin03@gmail.com)
