@@ -1,7 +1,7 @@
 <div align="center">
 <img width="200" height="265" alt="양준호 증명사진" src="https://github.com/user-attachments/assets/4e6e3d34-fa58-43f3-9f9e-67384132fd42" />
 
-## 서비스의 동작을 이해하고, 문제의 원인을 찾아가는 Backend Developer, 양준호입니다.
+## 문제의 흐름을 파악하고, 해결 과정을 기록하는 개발자 양준호입니다.
 
 #### 단국대학교 컴퓨터공학과 · 카카오임팩트 테크포임팩트리빙랩 1기 · 멋쟁이사자처럼 14기
 
